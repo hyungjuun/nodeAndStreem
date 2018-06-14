@@ -1,0 +1,22 @@
+{
+  "name": "nodestreem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyungjuun/nodeAndStreem.git"
+  },
+  "author": "hyungjuun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyungjuun/nodeAndStreem/issues"
+  },
+  "homepage": "https://github.com/hyungjuun/nodeAndStreem#readme",
+  "dependencies": {
+    "steem": "^0.7.1"
+  }
+}
